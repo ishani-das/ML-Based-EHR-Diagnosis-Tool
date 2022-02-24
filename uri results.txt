@@ -1,0 +1,4 @@
+pH: 100
+Red Blood Cells: 100
+Specific Gravity: 100
+White Blood Cells: 100

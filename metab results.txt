@@ -1,0 +1,15 @@
+Albumin: 100
+ALK PHOS: 100
+ALT/SGPT: 100
+ANION GAP: 100
+AST/SGOT: 100
+BILI Total: 100
+BUN: 100
+Calcium: 100
+Carbon Dioxide: 100
+Chloride: 100
+Creatinine: 100
+Glucose: 100
+Potassium: 100
+Sodium: 100
+Total Protein: 100

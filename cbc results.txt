@@ -1,0 +1,16 @@
+Absolute Lymphocytes: 100
+Absolute Neutrophil: 100
+Basophils: 100
+Eosinophils: 100
+Hematocrit: 100
+Hemoglobin: 100
+Lymphocytes: 100
+MCH: 100
+MCHC: 100
+Mean Corpuscular Volume: 100
+Monocytes: 100
+Neutrophils: 100
+Platelet Count: 100
+RDW: 100
+Red Blood Cell Count: 100
+White Blood Cell Count: 100
